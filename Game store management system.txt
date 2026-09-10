@@ -1,0 +1,15 @@
+Game Store Management System 
+Version 1.0
+Specifications
+
+1. User Management
+
+2. Game Management
+
+3. Game Search & Browsing
+
+4. Shopping Cart
+
+5. Order & Payment Management
+
+6. Inventory & Sales Managemen
