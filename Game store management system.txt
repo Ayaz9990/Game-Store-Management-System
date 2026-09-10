@@ -13,3 +13,5 @@ Specifications
 5. Order & Payment Management
 
 6. Inventory & Sales Managemen
+
+7. Sales & Reports
