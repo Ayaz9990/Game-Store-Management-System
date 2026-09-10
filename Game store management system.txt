@@ -15,3 +15,7 @@ Specifications
 6. Inventory & Sales Managemen
 
 7. Sales & Reports
+
+8. Shopping Cart
+
+9. Order Management
